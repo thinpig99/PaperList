@@ -1,7 +1,8 @@
 # PaperList of Recommendation System
 
 ### Review and Survey
-+ [KOR] Jieun Son, Seoung Bum Kim, Hyunjoong Kim, Sungzoon Cho. 2015. **'Review and Analysis of Recommender Systems'**. KIIE.
++ [KOR] Son, Jieun, et al. **"Review and analysis of recommender systems."** Journal of Korean Institute of Industrial Engineers 41.2 (2015): 185-208.
++ Zhang, Shuai, et al. **"Deep learning based recommender system: A survey and new perspectives."** ACM Computing Surveys (CSUR) 52.1 (2019): 1-38.
 
 
 ### Video Recommendation System
