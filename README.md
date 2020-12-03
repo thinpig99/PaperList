@@ -1,5 +1,5 @@
 # Paper List Read
 
-- [AD(Anomaly Detection)](./README.md#AD)
-- [NLP(Natural Language Processing)](./README.md#NLP)
-- [RecSys(Recommender System)](./README.md#RecSys)
+- [AD(Anomaly Detection)](./README_AD.md#PaperList)
+- [NLP(Natural Language Processing)](./README_NLP.md#PaperList)
+- [RecSys(Recommender System)](./README_RecSys.md#PaperList)
