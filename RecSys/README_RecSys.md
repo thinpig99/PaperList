@@ -1,6 +1,7 @@
 # PaperList of Recommendation System
 
 ### Recommendation System
++ Koren, Y., Bell, R., & Volinsky, C. (2009). **Matrix factorization techniques for recommender systems**. Computer, 42(8), 30-37.
 + Hu, Y., Koren, Y., & Volinsky, C. (2008, December). **Collaborative filtering for implicit feedback datasets**. In 2008 Eighth IEEE International Conference on Data Mining (pp. 263-272). Ieee.
 + Paul Covington, Jay Adams, Emre Sargin. 2016. **'Deep Neural Networks for YouTube Recommendations'**. RecSys.
 + Jiyoung Park, Jongpil Lee, Jangyeon Park, Jung-Woo Ha, Junhan Nam. 2018. **'Representation Learning of Music Using Artist Labels'**.ISMIR.
